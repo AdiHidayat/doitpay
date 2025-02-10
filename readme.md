@@ -1,6 +1,7 @@
 1. Overview solusi yang dibuat
 	- login dengan akun standard user
 	- untuk variable yang bersifat general, akan di declare sebagai konstanta
+	- untuk report mennggunakan report bawaan dari testNG
 
 2. Asumsi yang di ambil
     - tidak ada negatif case
